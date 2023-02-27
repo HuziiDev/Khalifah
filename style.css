@@ -313,7 +313,7 @@ transform: .4s;
    }
 header .navbar{
    position: absolute;
-   top: 0;
+   top: -400;
    left: 0;
    right: 0;
    display: flex;
